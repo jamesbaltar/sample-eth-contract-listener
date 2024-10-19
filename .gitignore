@@ -1,0 +1,7 @@
+env/
+
+db.sqlite3
+
+*.pyc
+
+eth_transfer_listener/.env
